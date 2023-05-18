@@ -61,12 +61,8 @@ switch(currentDay){
 }
 
 
-
-
-
 res.render('list' ,{checkDay : day})
 })
-
 
 
 app.listen(3000 ,()=>{
