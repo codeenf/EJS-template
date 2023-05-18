@@ -66,5 +66,5 @@ res.render('list' ,{checkDay : day})
 
 
 app.listen(3000 ,()=>{
-    console.log('srver is running on port 3000')
+    console.log('srver is running on port 3000');
 })
